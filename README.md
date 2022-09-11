@@ -46,3 +46,8 @@ Defines a enum class (with overriden output handler).
 
 ![singleton](images/4-singleton.png)
 
+### 4-state-transition-table
+
+[source](https://www.aleksandrhovhannisyan.com/blog/implementing-a-finite-state-machine-in-cpp/)
+
+![state-transition-table](images/5-state-transition-table.png)
