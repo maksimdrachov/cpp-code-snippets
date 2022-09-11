@@ -10,7 +10,7 @@ g++ -std=c++17 hello-world.cpp -o hello
 ./hello
 ```
 
-![hello-world](images/0-hello-world/hello-world.png)
+![hello-world](images/0-hello-world.png)
 
 ### 1-command-line-arguments
 
@@ -21,4 +21,15 @@ g++ -std=c++17 main.cpp -o main
 ./main argument1 argument2
 ```
 
-![command-line-arguments](images/1-command-line-arguments/command-line-arguments.png)
+![command-line-arguments](images/1-command-line-arguments.png)
+
+### 2-enum
+
+Defines and prints out the values of an [enum](https://en.cppreference.com/w/cpp/language/enum)
+
+```bash
+g++ -std=c++17 main.cpp -o main
+./main argument1 argument2
+```
+
+![enum](images/2-enum.png)
