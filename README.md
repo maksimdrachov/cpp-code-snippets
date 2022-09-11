@@ -30,3 +30,4 @@
 
 ### 5-finite-state-machine
 
+![finite-state-machine](images/6-finite-state-machine.png)
