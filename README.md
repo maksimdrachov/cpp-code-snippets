@@ -44,3 +44,5 @@ Defines a enum class (with overriden output handler).
 
 [source](https://refactoring.guru/design-patterns/singleton/cpp/example#example-1)
 
+![singleton](images/4-singleton.png)
+
