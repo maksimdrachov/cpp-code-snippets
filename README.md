@@ -29,7 +29,14 @@ Defines and prints out the values of an [enum](https://en.cppreference.com/w/cpp
 
 ```bash
 g++ -std=c++17 main.cpp -o main
-./main argument1 argument2
+./main
 ```
 
 ![enum](images/2-enum.png)
+
+### 3-enum-class
+
+Defines a enum class (with overriden output handler).
+
+![enum-class](images/3-enum-class.png)
+
