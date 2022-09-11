@@ -40,3 +40,7 @@ Defines a enum class (with overriden output handler).
 
 ![enum-class](images/3-enum-class.png)
 
+### 4-singleton
+
+[source](https://refactoring.guru/design-patterns/singleton/cpp/example#example-1)
+
